@@ -1,0 +1,10 @@
+//
+// Created by os on 9/16/26.
+//
+
+#ifndef THREAD_PRIORITY_PRIORITYTEST_HPP
+#define THREAD_PRIORITY_PRIORITYTEST_HPP
+
+void priorityTest();
+
+#endif //THREAD_PRIORITY_PRIORITYTEST_HPP
